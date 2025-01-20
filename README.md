@@ -1,5 +1,7 @@
 # Nuxt Minimal Starter
 
+Taken from Vueschool.io: https://vueschool.io/courses/nuxt-js-3-fundamentals
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
